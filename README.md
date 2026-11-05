@@ -45,11 +45,3 @@ La table principale `medicament` est structurée comme suit :
 | `Dose` | `VARCHAR` | Dose prescrite |
 | `Temps` | `VARCHAR` | Moments retenus (*Matin Dejeuner Diner*) |
 | `des` | `TEXT` | Observations du patient |
-
----
-
-##  Installation & Configuration
-
-1. **Cloner le dépôt Git** :
-   ```bash
-   git clone [https://github.com/votre-compte/ZenCare.git](https://github.com/votre-compte/ZenCare.git)
