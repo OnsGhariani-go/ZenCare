@@ -1,5 +1,5 @@
 # ZenCare
-# 🏥 ZenCare - Application de Suivi Médical
+# ZenCare - Application de Suivi Médical
 
 **ZenCare** est une application de bureau développée en **Java Swing** avec une base de données **MySQL**. Elle est conçue pour aider les patients à suivre leur traitement thérapeutique au quotidien, paramétrer la durée de leurs médicaments et générer des bilans de santé sécurisés.
 
